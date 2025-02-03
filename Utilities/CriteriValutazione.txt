@@ -1,0 +1,50 @@
+D: Quanti componenti per gruppo?
+R: intorno a tre: sono accettabili anche gruppi più/meno numerosi anche in base al progetto prefissato. Gli esami sono comunque individuali
+ 
+
+D: In cosa consiste un progetto?
+R: nella realizzazione (e test) di un prototipo di KBS in grado di manipolare manipolare/produrre conoscenza mediante metodi e tecniche previste dal programma di ICon (rappresentazione, ragionamento, diagnosi, apprendimento, classificazione,...) anche riusando in modo originale materiale presente in librerie, API esterne.
+Non ci sono vincoli particolari sui linguaggi di programmazione da usare.​​​
+ 
+
+D: Dove trovare spunti / idee per il progetto
+R: Si consiglia di partire dallo studio degli argomenti in programma, dando un'occhiata agli esercizi e alle risorse disponibili sul sito del testo.
+Si vedano anche le indicazioni nella pagina dedicata assieme ad esempi resi disponibili
+ 
+
+D: È consentito proporre un progetto che includa aspetti/metodi/finalità attinenti ad altri insegnamenti?
+R:  è consentito a patto di essere in grado di dimostrare la padronanza acquisita sui temi in programma per questo insegnamento. Si veda la domanda sui criteri di valutazione e in particolare quello della completezza.
+ 
+
+D: Secondo quali criteri saranno valutati i progetti?
+R: criteri base:
+- originalità: rispetto a tecniche/metodi esistenti con implementazioni disponibili: OK mashup di contributi diversi
+- comprensività/completezza: copertura di più argomenti di interesse per l'Ingegneria della conoscenza
+- significatività: rispetto allo stato dell'arte / della pratica
+- complessità/difficoltà: del problema affrontato
+- generalità: del problema affrontato / dominio su cui si testa la soluzione
+- valutazione: esperimenti su più dataset / domini
+ 
+
+D: Cosa si consegna prima dell'esame?
+R: documentazione del progetto (indicare i nomi dei partecipanti e loro recapiti); è consigliabile l'uso di un repository esterno indicato nella documentazione per contenere il materiale completo (specie se eccedente il limite di Mb del file)
+ 
+
+D: Qual è il grado di dettaglio richiesto per la documentazione ?
+R: Si richiede che le decisioni di progetto adottate, segnatamente quelle d'interesse per i temi dell'insegnamento, vengano specificate e descritte in modo comprensibile per altri studenti che volessero estendere quanto è stato realizzato
+ 
+
+D: È possibile sostenere l'esame in appelli differenti appartenendo a uno stesso gruppo ?
+R: sì, a patto che il gruppo rimanga lo stesso (usare le note per indicare l'appello della consegna precedente)
+ 
+
+D: Ci sono disposizioni particolari per i non frequentanti (modalità/gruppi) ?
+R: no, la modalità rimane la stessa: anche se è consigliabile svolgere il progetto in gruppo, l'esame riguarderà il singolo studente
+ 
+
+D: in caso di bocciatura/rifiuto si può mantenere il progetto per un successivo appello ?
+R: sì, se la bocciatura non dipende dal progetto
+ 
+
+D: È obbligatorio portare il programma del proprio anno di frequenza ?
+R: no, si può portare quello fino all'ultimo corso erogato
