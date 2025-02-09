@@ -17,7 +17,7 @@ Questo repository contiene varie applicazione degli argomenti discussi nel corso
 2. Per aggiornare la lista dei requirements, lanciare nella root della repository:
      ```pip freeze > requirements.txt```
 
-> *INSTALLARE NBConvert (previa installazione di pandoc, MikTeX e Jupyter. Previa anche aggiunta dei suddetti programmi a path)
+> *INSTALLARE* NBConvert (previa installazione di pandoc, MikTeX e Jupyter. Previa anche aggiunta dei suddetti programmi a path)
 > Comando per convertire un file Jupyter in .pdf
 > ```jupyter nbconvert --to pdf <nome_file>.ipynb```
 
