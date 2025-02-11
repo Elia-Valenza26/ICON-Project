@@ -5,3 +5,6 @@ Dati/microdati.txt
 PythonCode/
 __pycache__/
 cache/
+Dati/NaiveAugmented.csv
+Dati/NaiveBalanced.csv
+Dati/NaiveUnbalanced.csv
