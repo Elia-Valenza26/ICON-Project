@@ -4,7 +4,7 @@ Questo repository contiene varie applicazione degli argomenti discussi nel corso
 ### COMANDI PER ATTIVAZIONE VIRTUAL ENVIROMENTS
 
 1. Nella directory della repository, per abilitare l'ambiente:
-    ```fav_env\Scripts\activate```
+    ```fan_env\Scripts\activate```
 
 2. Nella directory della repository, per disabilitare l'ambiente:
     ```deactivate```
@@ -22,6 +22,5 @@ Questo repository contiene varie applicazione degli argomenti discussi nel corso
 > ```jupyter nbconvert --to pdf <nome_file>.ipynb```
 
 ### ISTRUZIONI GENERALI
-- Risolvere i problemi con le dispense davanti
 - Cercare di coprire quanti più aspetti possibili dell'argomento
 - Creare un documento per la documentazione associato ad ogni issue seguendo il template nella cartella ./Doc, chiamato con il nome della Issue
